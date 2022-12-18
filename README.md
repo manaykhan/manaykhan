@@ -1,5 +1,5 @@
 [![MasterHead](https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif)](https://manaykhan.io)
-<h1 align="center">Hello there~ I'm Mahnoor Khan</h1>
+<h1 align="center">Hello there! I'm Mahnoor Khan</h1>
 <h3 align="center">A software Engineer in progress :D</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manaykhan&label=Profile%20views&color=0e75b6&style=flat" alt="manaykhan" /> </p>
