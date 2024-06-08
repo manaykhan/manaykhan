@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **something that piqued my interest**
+- 🔭 I’m currently working on **my Final Year Project**
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
