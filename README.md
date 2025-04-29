@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **my Final Year Project**
+- 🔭 I’m currently working on **my Internship Projects**
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱 I’m currently learning **Quality Assurance**
 
 - 💬 Ask me about **python**
 
-- 📫 How to reach me **manayyykhan123@gmail.com**
+- 📫 How to reach me **mahnoor.khan0710@gmail.com**
 
 - ⚡ Fun fact **I solve Rubik's cube when I can't sleep**
 
